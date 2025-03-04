@@ -1,6 +1,6 @@
 # _config.yml
-title: The Messianic Mission
-description: Protecting God's People - 501(c)(3)
+title: Fremont Advisory
+description: Financial Freedom at your Fingertips
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://themessianicmission.github.io" # the base hostname & protocol for your site
+url: "https://fremontadvisory.github.io" # the base hostname & protocol for your site
 theme: minima
